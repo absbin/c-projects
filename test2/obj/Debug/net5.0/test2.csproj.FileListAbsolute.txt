@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\python\c#\code\test2\bin\Debug\net5.0\test2.exe
+D:\0machin learning+DNN+python\python\c#\code\test2\bin\Debug\net5.0\test2.deps.json
+D:\0machin learning+DNN+python\python\c#\code\test2\bin\Debug\net5.0\test2.runtimeconfig.json
+D:\0machin learning+DNN+python\python\c#\code\test2\bin\Debug\net5.0\test2.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\python\c#\code\test2\bin\Debug\net5.0\test2.dll
+D:\0machin learning+DNN+python\python\c#\code\test2\bin\Debug\net5.0\ref\test2.dll
+D:\0machin learning+DNN+python\python\c#\code\test2\bin\Debug\net5.0\test2.pdb
+D:\0machin learning+DNN+python\python\c#\code\test2\obj\Debug\net5.0\test2.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\python\c#\code\test2\obj\Debug\net5.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\python\c#\code\test2\obj\Debug\net5.0\test2.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\python\c#\code\test2\obj\Debug\net5.0\test2.AssemblyInfo.cs
+D:\0machin learning+DNN+python\python\c#\code\test2\obj\Debug\net5.0\test2.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\python\c#\code\test2\obj\Debug\net5.0\test2.dll
+D:\0machin learning+DNN+python\python\c#\code\test2\obj\Debug\net5.0\ref\test2.dll
+D:\0machin learning+DNN+python\python\c#\code\test2\obj\Debug\net5.0\test2.pdb
+D:\0machin learning+DNN+python\python\c#\code\test2\obj\Debug\net5.0\test2.genruntimeconfig.cache

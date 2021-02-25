@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\python\c#\static_method\bin\Debug\net5.0\static_method.exe
+D:\0machin learning+DNN+python\python\c#\static_method\bin\Debug\net5.0\static_method.deps.json
+D:\0machin learning+DNN+python\python\c#\static_method\bin\Debug\net5.0\static_method.runtimeconfig.json
+D:\0machin learning+DNN+python\python\c#\static_method\bin\Debug\net5.0\static_method.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\python\c#\static_method\bin\Debug\net5.0\static_method.dll
+D:\0machin learning+DNN+python\python\c#\static_method\bin\Debug\net5.0\ref\static_method.dll
+D:\0machin learning+DNN+python\python\c#\static_method\bin\Debug\net5.0\static_method.pdb
+D:\0machin learning+DNN+python\python\c#\static_method\obj\Debug\net5.0\static_method.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\python\c#\static_method\obj\Debug\net5.0\static_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\python\c#\static_method\obj\Debug\net5.0\static_method.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\python\c#\static_method\obj\Debug\net5.0\static_method.AssemblyInfo.cs
+D:\0machin learning+DNN+python\python\c#\static_method\obj\Debug\net5.0\static_method.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\python\c#\static_method\obj\Debug\net5.0\static_method.dll
+D:\0machin learning+DNN+python\python\c#\static_method\obj\Debug\net5.0\ref\static_method.dll
+D:\0machin learning+DNN+python\python\c#\static_method\obj\Debug\net5.0\static_method.pdb
+D:\0machin learning+DNN+python\python\c#\static_method\obj\Debug\net5.0\static_method.genruntimeconfig.cache

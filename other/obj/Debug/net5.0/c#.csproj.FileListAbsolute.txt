@@ -1,0 +1,5 @@
+D:\0machin learning+DNN+python\python\c#\obj\Debug\net5.0\c#.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\python\c#\obj\Debug\net5.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\python\c#\obj\Debug\net5.0\c#.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\python\c#\obj\Debug\net5.0\c#.AssemblyInfo.cs
+D:\0machin learning+DNN+python\python\c#\obj\Debug\net5.0\c#.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\bin\Debug\net5.0\ClassPrpoerties2.exe
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\bin\Debug\net5.0\ClassPrpoerties2.deps.json
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\bin\Debug\net5.0\ClassPrpoerties2.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\bin\Debug\net5.0\ClassPrpoerties2.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\bin\Debug\net5.0\ClassPrpoerties2.dll
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\bin\Debug\net5.0\ref\ClassPrpoerties2.dll
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\bin\Debug\net5.0\ClassPrpoerties2.pdb
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\obj\Debug\net5.0\ClassPrpoerties2.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\obj\Debug\net5.0\ClassPrpoerties2.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\obj\Debug\net5.0\ClassPrpoerties2.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\obj\Debug\net5.0\ClassPrpoerties2.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\obj\Debug\net5.0\ClassPrpoerties2.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\obj\Debug\net5.0\ClassPrpoerties2.dll
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\obj\Debug\net5.0\ref\ClassPrpoerties2.dll
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\obj\Debug\net5.0\ClassPrpoerties2.pdb
+D:\0machin learning+DNN+python\c#\code\ClassPrpoerties2\ClassPrpoerties2\obj\Debug\net5.0\ClassPrpoerties2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\python\c#\class_oop\obj\Debug\net5.0\class_oop.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\python\c#\class_oop\obj\Debug\net5.0\class_oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\python\c#\class_oop\obj\Debug\net5.0\class_oop.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\python\c#\class_oop\obj\Debug\net5.0\class_oop.AssemblyInfo.cs
+D:\0machin learning+DNN+python\python\c#\class_oop\obj\Debug\net5.0\class_oop.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\python\c#\class_oop\bin\Debug\net5.0\class_oop.exe
+D:\0machin learning+DNN+python\python\c#\class_oop\bin\Debug\net5.0\class_oop.deps.json
+D:\0machin learning+DNN+python\python\c#\class_oop\bin\Debug\net5.0\class_oop.runtimeconfig.json
+D:\0machin learning+DNN+python\python\c#\class_oop\bin\Debug\net5.0\class_oop.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\python\c#\class_oop\bin\Debug\net5.0\class_oop.dll
+D:\0machin learning+DNN+python\python\c#\class_oop\bin\Debug\net5.0\ref\class_oop.dll
+D:\0machin learning+DNN+python\python\c#\class_oop\bin\Debug\net5.0\class_oop.pdb
+D:\0machin learning+DNN+python\python\c#\class_oop\obj\Debug\net5.0\class_oop.dll
+D:\0machin learning+DNN+python\python\c#\class_oop\obj\Debug\net5.0\ref\class_oop.dll
+D:\0machin learning+DNN+python\python\c#\class_oop\obj\Debug\net5.0\class_oop.pdb
+D:\0machin learning+DNN+python\python\c#\class_oop\obj\Debug\net5.0\class_oop.genruntimeconfig.cache

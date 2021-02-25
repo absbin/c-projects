@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\AccessModifier\bin\Debug\net5.0\AccessModifier.exe
+D:\0machin learning+DNN+python\c#\code\AccessModifier\bin\Debug\net5.0\AccessModifier.deps.json
+D:\0machin learning+DNN+python\c#\code\AccessModifier\bin\Debug\net5.0\AccessModifier.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\AccessModifier\bin\Debug\net5.0\AccessModifier.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\AccessModifier\bin\Debug\net5.0\AccessModifier.dll
+D:\0machin learning+DNN+python\c#\code\AccessModifier\bin\Debug\net5.0\ref\AccessModifier.dll
+D:\0machin learning+DNN+python\c#\code\AccessModifier\bin\Debug\net5.0\AccessModifier.pdb
+D:\0machin learning+DNN+python\c#\code\AccessModifier\obj\Debug\net5.0\AccessModifier.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\AccessModifier\obj\Debug\net5.0\AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\AccessModifier\obj\Debug\net5.0\AccessModifier.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\AccessModifier\obj\Debug\net5.0\AccessModifier.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\AccessModifier\obj\Debug\net5.0\AccessModifier.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\AccessModifier\obj\Debug\net5.0\AccessModifier.dll
+D:\0machin learning+DNN+python\c#\code\AccessModifier\obj\Debug\net5.0\ref\AccessModifier.dll
+D:\0machin learning+DNN+python\c#\code\AccessModifier\obj\Debug\net5.0\AccessModifier.pdb
+D:\0machin learning+DNN+python\c#\code\AccessModifier\obj\Debug\net5.0\AccessModifier.genruntimeconfig.cache

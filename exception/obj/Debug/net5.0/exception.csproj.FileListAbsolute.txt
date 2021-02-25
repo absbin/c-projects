@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\exception\bin\Debug\net5.0\exception.exe
+D:\0machin learning+DNN+python\c#\code\exception\bin\Debug\net5.0\exception.deps.json
+D:\0machin learning+DNN+python\c#\code\exception\bin\Debug\net5.0\exception.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\exception\bin\Debug\net5.0\exception.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\exception\bin\Debug\net5.0\exception.dll
+D:\0machin learning+DNN+python\c#\code\exception\bin\Debug\net5.0\ref\exception.dll
+D:\0machin learning+DNN+python\c#\code\exception\bin\Debug\net5.0\exception.pdb
+D:\0machin learning+DNN+python\c#\code\exception\obj\Debug\net5.0\exception.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\exception\obj\Debug\net5.0\exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\exception\obj\Debug\net5.0\exception.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\exception\obj\Debug\net5.0\exception.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\exception\obj\Debug\net5.0\exception.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\exception\obj\Debug\net5.0\exception.dll
+D:\0machin learning+DNN+python\c#\code\exception\obj\Debug\net5.0\ref\exception.dll
+D:\0machin learning+DNN+python\c#\code\exception\obj\Debug\net5.0\exception.pdb
+D:\0machin learning+DNN+python\c#\code\exception\obj\Debug\net5.0\exception.genruntimeconfig.cache
