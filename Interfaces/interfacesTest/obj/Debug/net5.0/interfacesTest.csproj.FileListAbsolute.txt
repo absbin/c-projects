@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\bin\Debug\net5.0\interfacesTest.exe
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\bin\Debug\net5.0\interfacesTest.deps.json
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\bin\Debug\net5.0\interfacesTest.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\bin\Debug\net5.0\interfacesTest.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\bin\Debug\net5.0\interfacesTest.dll
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\bin\Debug\net5.0\ref\interfacesTest.dll
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\bin\Debug\net5.0\interfacesTest.pdb
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\obj\Debug\net5.0\interfacesTest.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\obj\Debug\net5.0\interfacesTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\obj\Debug\net5.0\interfacesTest.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\obj\Debug\net5.0\interfacesTest.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\obj\Debug\net5.0\interfacesTest.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\obj\Debug\net5.0\interfacesTest.dll
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\obj\Debug\net5.0\ref\interfacesTest.dll
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\obj\Debug\net5.0\interfacesTest.pdb
+D:\0machin learning+DNN+python\c#\code\Interfaces\interfacesTest\obj\Debug\net5.0\interfacesTest.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\obj\Debug\net5.0\delegates2_withDelegate.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\obj\Debug\net5.0\delegates2_withDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\obj\Debug\net5.0\delegates2_withDelegate.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\obj\Debug\net5.0\delegates2_withDelegate.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\obj\Debug\net5.0\delegates2_withDelegate.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\bin\Debug\net5.0\delegates2_withDelegate.exe
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\bin\Debug\net5.0\delegates2_withDelegate.deps.json
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\bin\Debug\net5.0\delegates2_withDelegate.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\bin\Debug\net5.0\delegates2_withDelegate.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\bin\Debug\net5.0\delegates2_withDelegate.dll
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\bin\Debug\net5.0\ref\delegates2_withDelegate.dll
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\bin\Debug\net5.0\delegates2_withDelegate.pdb
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\obj\Debug\net5.0\delegates2_withDelegate.dll
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\obj\Debug\net5.0\ref\delegates2_withDelegate.dll
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\obj\Debug\net5.0\delegates2_withDelegate.pdb
+D:\0machin learning+DNN+python\c#\code\delegates\delegates2_withDelegate\obj\Debug\net5.0\delegates2_withDelegate.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\FileSystem\bin\Debug\net5.0\FileSystem.exe
+D:\0machin learning+DNN+python\c#\code\FileSystem\bin\Debug\net5.0\FileSystem.deps.json
+D:\0machin learning+DNN+python\c#\code\FileSystem\bin\Debug\net5.0\FileSystem.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\FileSystem\bin\Debug\net5.0\FileSystem.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\FileSystem\bin\Debug\net5.0\FileSystem.dll
+D:\0machin learning+DNN+python\c#\code\FileSystem\bin\Debug\net5.0\ref\FileSystem.dll
+D:\0machin learning+DNN+python\c#\code\FileSystem\bin\Debug\net5.0\FileSystem.pdb
+D:\0machin learning+DNN+python\c#\code\FileSystem\obj\Debug\net5.0\FileSystem.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\FileSystem\obj\Debug\net5.0\FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\FileSystem\obj\Debug\net5.0\FileSystem.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\FileSystem\obj\Debug\net5.0\FileSystem.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\FileSystem\obj\Debug\net5.0\FileSystem.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\FileSystem\obj\Debug\net5.0\FileSystem.dll
+D:\0machin learning+DNN+python\c#\code\FileSystem\obj\Debug\net5.0\ref\FileSystem.dll
+D:\0machin learning+DNN+python\c#\code\FileSystem\obj\Debug\net5.0\FileSystem.pdb
+D:\0machin learning+DNN+python\c#\code\FileSystem\obj\Debug\net5.0\FileSystem.genruntimeconfig.cache

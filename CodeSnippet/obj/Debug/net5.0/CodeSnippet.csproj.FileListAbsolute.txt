@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\bin\Debug\net5.0\CodeSnippet.exe
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\bin\Debug\net5.0\CodeSnippet.deps.json
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\bin\Debug\net5.0\CodeSnippet.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\bin\Debug\net5.0\CodeSnippet.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\bin\Debug\net5.0\CodeSnippet.dll
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\bin\Debug\net5.0\ref\CodeSnippet.dll
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\bin\Debug\net5.0\CodeSnippet.pdb
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\obj\Debug\net5.0\CodeSnippet.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\obj\Debug\net5.0\CodeSnippet.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\obj\Debug\net5.0\CodeSnippet.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\obj\Debug\net5.0\CodeSnippet.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\obj\Debug\net5.0\CodeSnippet.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\obj\Debug\net5.0\CodeSnippet.dll
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\obj\Debug\net5.0\ref\CodeSnippet.dll
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\obj\Debug\net5.0\CodeSnippet.pdb
+D:\0machin learning+DNN+python\c#\code\CodeSnippet\obj\Debug\net5.0\CodeSnippet.genruntimeconfig.cache

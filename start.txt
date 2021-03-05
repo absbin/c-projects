@@ -1,1 +1,5 @@
-dotnet new console
+dotnet new sln
+dotnet new console -o my app
+
+dotnet restore
+dotnet run
