@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\0machin learning+DNN+python\\c#\\code\\Multithriding\\Multithriding.csproj": {}
+    "D:\\0machin learning+DNN+python\\c#\\code\\Multithreading\\WithoutThread\\WithoutThread.csproj": {}
   },
   "projects": {
-    "D:\\0machin learning+DNN+python\\c#\\code\\Multithriding\\Multithriding.csproj": {
+    "D:\\0machin learning+DNN+python\\c#\\code\\Multithreading\\WithoutThread\\WithoutThread.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\0machin learning+DNN+python\\c#\\code\\Multithriding\\Multithriding.csproj",
-        "projectName": "Multithriding",
-        "projectPath": "D:\\0machin learning+DNN+python\\c#\\code\\Multithriding\\Multithriding.csproj",
+        "projectUniqueName": "D:\\0machin learning+DNN+python\\c#\\code\\Multithreading\\WithoutThread\\WithoutThread.csproj",
+        "projectName": "WithoutThread",
+        "projectPath": "D:\\0machin learning+DNN+python\\c#\\code\\Multithreading\\WithoutThread\\WithoutThread.csproj",
         "packagesPath": "C:\\Users\\abs\\.nuget\\packages\\",
-        "outputPath": "D:\\0machin learning+DNN+python\\c#\\code\\Multithriding\\obj\\",
+        "outputPath": "D:\\0machin learning+DNN+python\\c#\\code\\Multithreading\\WithoutThread\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abs\\AppData\\Roaming\\NuGet\\NuGet.Config"

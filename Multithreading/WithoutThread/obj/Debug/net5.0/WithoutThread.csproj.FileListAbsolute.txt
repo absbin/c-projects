@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\bin\Debug\net5.0\WithoutThread.exe
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\bin\Debug\net5.0\WithoutThread.deps.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\bin\Debug\net5.0\WithoutThread.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\bin\Debug\net5.0\WithoutThread.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\bin\Debug\net5.0\WithoutThread.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\bin\Debug\net5.0\ref\WithoutThread.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\bin\Debug\net5.0\WithoutThread.pdb
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\obj\Debug\net5.0\WithoutThread.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\obj\Debug\net5.0\WithoutThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\obj\Debug\net5.0\WithoutThread.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\obj\Debug\net5.0\WithoutThread.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\obj\Debug\net5.0\WithoutThread.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\obj\Debug\net5.0\WithoutThread.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\obj\Debug\net5.0\ref\WithoutThread.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\obj\Debug\net5.0\WithoutThread.pdb
+D:\0machin learning+DNN+python\c#\code\Multithreading\WithoutThread\obj\Debug\net5.0\WithoutThread.genruntimeconfig.cache

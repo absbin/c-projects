@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\bin\Debug\net5.0\TaskRun.exe
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\bin\Debug\net5.0\TaskRun.deps.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\bin\Debug\net5.0\TaskRun.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\bin\Debug\net5.0\TaskRun.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\bin\Debug\net5.0\TaskRun.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\bin\Debug\net5.0\ref\TaskRun.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\bin\Debug\net5.0\TaskRun.pdb
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\obj\Debug\net5.0\TaskRun.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\obj\Debug\net5.0\TaskRun.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\obj\Debug\net5.0\TaskRun.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\obj\Debug\net5.0\TaskRun.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\obj\Debug\net5.0\TaskRun.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\obj\Debug\net5.0\TaskRun.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\obj\Debug\net5.0\ref\TaskRun.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\obj\Debug\net5.0\TaskRun.pdb
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRun\obj\Debug\net5.0\TaskRun.genruntimeconfig.cache

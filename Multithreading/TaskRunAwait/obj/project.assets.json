@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0machin learning+DNN+python\\c#\\code\\Multithriding\\Multithriding.csproj",
-      "projectName": "Multithriding",
-      "projectPath": "D:\\0machin learning+DNN+python\\c#\\code\\Multithriding\\Multithriding.csproj",
+      "projectUniqueName": "D:\\0machin learning+DNN+python\\c#\\code\\Multithreading\\TaskRunAwait\\TaskRunAwait.csproj",
+      "projectName": "TaskRunAwait",
+      "projectPath": "D:\\0machin learning+DNN+python\\c#\\code\\Multithreading\\TaskRunAwait\\TaskRunAwait.csproj",
       "packagesPath": "C:\\Users\\abs\\.nuget\\packages\\",
-      "outputPath": "D:\\0machin learning+DNN+python\\c#\\code\\Multithriding\\obj\\",
+      "outputPath": "D:\\0machin learning+DNN+python\\c#\\code\\Multithreading\\TaskRunAwait\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abs\\AppData\\Roaming\\NuGet\\NuGet.Config"

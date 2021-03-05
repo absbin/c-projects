@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\obj\Debug\net5.0\TaskRunAwait.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\obj\Debug\net5.0\TaskRunAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\obj\Debug\net5.0\TaskRunAwait.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\obj\Debug\net5.0\TaskRunAwait.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\obj\Debug\net5.0\TaskRunAwait.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\bin\Debug\net5.0\TaskRunAwait.exe
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\bin\Debug\net5.0\TaskRunAwait.deps.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\bin\Debug\net5.0\TaskRunAwait.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\bin\Debug\net5.0\TaskRunAwait.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\bin\Debug\net5.0\TaskRunAwait.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\bin\Debug\net5.0\ref\TaskRunAwait.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\bin\Debug\net5.0\TaskRunAwait.pdb
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\obj\Debug\net5.0\TaskRunAwait.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\obj\Debug\net5.0\ref\TaskRunAwait.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\obj\Debug\net5.0\TaskRunAwait.pdb
+D:\0machin learning+DNN+python\c#\code\Multithreading\TaskRunAwait\obj\Debug\net5.0\TaskRunAwait.genruntimeconfig.cache

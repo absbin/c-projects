@@ -1,0 +1,16 @@
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\bin\Debug\net5.0\Multithreading.exe
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\bin\Debug\net5.0\Multithreading.deps.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\bin\Debug\net5.0\Multithreading.runtimeconfig.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\bin\Debug\net5.0\Multithreading.runtimeconfig.dev.json
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\bin\Debug\net5.0\Multithreading.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\bin\Debug\net5.0\ref\Multithreading.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\bin\Debug\net5.0\Multithreading.pdb
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\obj\Debug\net5.0\Multithreading.csprojAssemblyReference.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\obj\Debug\net5.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\obj\Debug\net5.0\Multithreading.AssemblyInfoInputs.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\obj\Debug\net5.0\Multithreading.AssemblyInfo.cs
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\obj\Debug\net5.0\Multithreading.csproj.CoreCompileInputs.cache
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\obj\Debug\net5.0\Multithreading.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\obj\Debug\net5.0\ref\Multithreading.dll
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\obj\Debug\net5.0\Multithreading.pdb
+D:\0machin learning+DNN+python\c#\code\Multithreading\Multithreading\obj\Debug\net5.0\Multithreading.genruntimeconfig.cache
