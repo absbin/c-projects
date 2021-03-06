@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\0machin learning+DNN+python\\python\\c#\\code\\4pillars_inheritance_polymorphisem\\4pillars_inheritance_polymorphisem.csproj": {}
+    "D:\\0machin learning+DNN+python\\c#\\code\\4pillars_inheritance_polymorphisem\\4pillars_inheritance_polymorphisem.csproj": {}
   },
   "projects": {
-    "D:\\0machin learning+DNN+python\\python\\c#\\code\\4pillars_inheritance_polymorphisem\\4pillars_inheritance_polymorphisem.csproj": {
+    "D:\\0machin learning+DNN+python\\c#\\code\\4pillars_inheritance_polymorphisem\\4pillars_inheritance_polymorphisem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\0machin learning+DNN+python\\python\\c#\\code\\4pillars_inheritance_polymorphisem\\4pillars_inheritance_polymorphisem.csproj",
+        "projectUniqueName": "D:\\0machin learning+DNN+python\\c#\\code\\4pillars_inheritance_polymorphisem\\4pillars_inheritance_polymorphisem.csproj",
         "projectName": "4pillars_inheritance_polymorphisem",
-        "projectPath": "D:\\0machin learning+DNN+python\\python\\c#\\code\\4pillars_inheritance_polymorphisem\\4pillars_inheritance_polymorphisem.csproj",
+        "projectPath": "D:\\0machin learning+DNN+python\\c#\\code\\4pillars_inheritance_polymorphisem\\4pillars_inheritance_polymorphisem.csproj",
         "packagesPath": "C:\\Users\\abs\\.nuget\\packages\\",
-        "outputPath": "D:\\0machin learning+DNN+python\\python\\c#\\code\\4pillars_inheritance_polymorphisem\\obj\\",
+        "outputPath": "D:\\0machin learning+DNN+python\\c#\\code\\4pillars_inheritance_polymorphisem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abs\\AppData\\Roaming\\NuGet\\NuGet.Config"

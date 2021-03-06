@@ -2,9 +2,10 @@ using System;
 
 namespace exception
 {
-    public class ExceptionManager 
+    // public static class ExceptionManager
+    public class ExceptionManager
     {
-        static int[] numbers = { 15, 5, 8, 12 };
+        public static int[] numbers = { 15, 5, 8, 12 };
         public static bool wrongAnswer = false;
         public static int GetNumber(int index)
         {
@@ -14,10 +15,10 @@ namespace exception
             {
                 output = numbers[index];
             }
-            catch (System.Exception ex)
+            catch (System.Exception exception_test)
             {
-                Console.WriteLine(ex.StackTrace);
-                Console.WriteLine(ex.Message);
+                Console.WriteLine(exception_test.StackTrace);
+                Console.WriteLine(exception_test.Message);
             }
             finally
             {
